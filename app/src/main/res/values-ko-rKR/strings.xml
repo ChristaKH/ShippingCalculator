@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"운송 계산기 "</string>
+    <string name="WeightTextView">" 포장 무게"</string>
+    <string name="defaultWeight">0</string>
+    <string name="underTextLabel">"(온스) "</string>
+    <string name="baseCostLabel">"기본 비용 : "</string>
+    <string name="addedCostLabel">"추가 된 비용 : "</string>
+    <string name="totalShippingCostLabel">총 운송 비용 :</string>
+</resources>
